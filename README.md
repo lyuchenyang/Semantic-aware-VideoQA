@@ -7,8 +7,10 @@
 
 School of Computing, Dublin City University, Dublin, Ireland &#x1F3E0;
 
-This repository contains the code for the Semantic-aware Dynamic Retrospective-Prospective Reasoning system for Event-level Video Question Answering (EVQA) &#x1F4BB;. The system utilizes explicit semantic connections between questions and visual information at the event level to improve the reasoning process and provide optimal answers &#x1F50D;.
+
 </div>
+
+This repository contains the code for the Semantic-aware Dynamic Retrospective-Prospective Reasoning system for Event-level Video Question Answering (EVQA) &#x1F4BB;. The system utilizes explicit semantic connections between questions and visual information at the event level to improve the reasoning process and provide optimal answers &#x1F50D;.
 
 ## Table of Contents
 
