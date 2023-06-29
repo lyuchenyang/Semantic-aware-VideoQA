@@ -25,7 +25,7 @@ Event-Level Video Question Answering (EVQA) requires complex reasoning across vi
 
 ## 2. Dataset &#x1F4D3;
 
-Please download the TrafficQA dataset from this link: [https://sutdcv.github.io/SUTD-TrafficQA/#/download](https://sutdcv.github.io/SUTD-TrafficQA/#/download) including videos and corresponding annotations.
+Please download the TrafficQA dataset from this link: [https://sutdcv.github.io/SUTD-TrafficQA/#/download](https://sutdcv.github.io/SUTD-TrafficQA/#/download) including videos and corresponding annotations and then move them under `data/` directory.
 
 ## 3. Pre-processing &#x1F527;
 
