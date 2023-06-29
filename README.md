@@ -3,7 +3,7 @@
 # Semantic-aware Dynamic Retrospective-Prospective Reasoning for Event-level Video Question Answering &#x1F4BB;
 
 
-**¹ [Chenyang Lyu](https://lyuchenyang.github.io), ² [Tianbo Ji](mailto:jitianbo@ntu.edu.cn);, [Yvette Graham](mailto:ygraham@tcd.ie), [Jennifer Foster](mailto:jennifer.foster@dcu.ie)**;
+**¹ [Chenyang Lyu](https://lyuchenyang.github.io), ² [Tianbo Ji](mailto:jitianbo@ntu.edu.cn), [Yvette Graham](mailto:ygraham@tcd.ie), [Jennifer Foster](mailto:jennifer.foster@dcu.ie)**
 
 School of Computing, Dublin City University, Dublin, Ireland &#x1F3E0;
 
